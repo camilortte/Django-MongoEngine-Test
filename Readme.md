@@ -31,7 +31,7 @@ python manage.py syncdb
 ## View databases:
 In this moment see the database and compare with models in the ```main/models.py``` folder, you can see taht Article model is no in the database.
 
-- Now type in the shell of Django project(```python manage shell```):
+- Now type in the shell of Django project(```python manage.py shell```):
 ```
 from main.models import Article
 article = Article(
