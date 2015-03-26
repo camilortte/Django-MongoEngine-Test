@@ -10,4 +10,4 @@ class Article(models.Model):
     cosa = DictField()
 
     def __unicode__(self):
-        return u"Objecto"
+        return u'%s' % (self.title)
