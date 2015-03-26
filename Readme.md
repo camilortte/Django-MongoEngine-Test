@@ -44,7 +44,9 @@ article.save()
 
 ## Test the data:
 In the shell's mongo type:
-```db.main_article.find()```
+```
+db.main_article.find()
+```
 You can see the data of model Article save.
 
 
