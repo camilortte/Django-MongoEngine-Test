@@ -52,8 +52,8 @@ You can see the data of model Article save.
 
 ## Help?
 - [Django and multiples databases](https://docs.djangoproject.com/en/1.7/topics/db/multi-db/)
-- [django-mongodb-engine](https://django-mongodb-engine.readthedocs.org/en/latest/)) 
+- [django-mongodb-engine](https://django-mongodb-engine.readthedocs.org/en/latest/)
 
 #About
-Camilo Ramírez @camilortte - camilolinchis@gmail.com 
+Camilo Ramírez - camilortte@hotmail.com, [@camilortte](https://twitter.com/camilortte) on Twitter**
 
